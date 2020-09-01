@@ -4,7 +4,7 @@ Application developed in flutter with the aid of the course "Creating Android an
 The project in question is a small application to calculate the time.
 
 <p align="center"> 
-<img alt="Print" src="https://github.com/marcusv77/App-Flutter-Calculo-IMC/blob/master/print/imc.png">
+<img alt="Print" src="https://github.com/marcusv77/App-Flutter-Cronometro/blob/master/print/timer.png">
 </p>
 
 ## Getting Started
