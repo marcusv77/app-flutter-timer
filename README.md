@@ -6,10 +6,10 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/marcus-fernandes-f77/">
-      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-30416A?style=flat&logo=linkedin&labelColor=30416A" />
+      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-blue?style=flat&logo=linkedin&labelColor=blue" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/app-flutter-timer?color=30416A&label=Repo%20size">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-30416A">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/app-flutter-timer?color=blue&label=Repo%20size">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 
